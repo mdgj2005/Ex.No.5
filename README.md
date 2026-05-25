@@ -1,4 +1,4 @@
-# EXP 6: Prompt Refinement Techniques using ChatGPT
+# EXP 5: Prompt Refinement Techniques using ChatGPT
 
 ## NAME : M.Gokul Anand
 
