@@ -1,7 +1,7 @@
 # EXP 5: Comparative Analysis of Naïve Prompting versus Basic Prompting Using ChatGPT Across Various Test Scenarios
 
 ## NAME :M.Gokul Anand
-## REG NO. : 212223040013
+## REG NO. : 212223040049
 
 ## 1. Aim
 <p1>The primary aim of this experiment is to rigorously test and compare how ChatGPT responds to two distinct types of user prompts: naive prompts, which are broad, vague, and lack clear structure, and basic prompts, which are carefully designed with clarity, specificity, and detailed instructions. By assessing ChatGPT's responses across multiple diverse scenarios, the goal is to evaluate the difference in the quality, accuracy, and depth of output generated under different prompting conditions. This experiment highlights the importance of prompt engineering and aims to showcase best practices for maximizing the effectiveness of AI interactions.</p1><br>
